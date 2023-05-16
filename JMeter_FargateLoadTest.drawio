@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T05:25:39.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="gE-Xx3WY0mkjAJAZc6o6" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T05:27:32.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="1utJHYtRBvxzIxnYs4zK" version="21.3.2" type="github">
   <diagram name="Page-1" id="uRonXGFKkM05VsuhB5dR">
     <mxGraphModel dx="1194" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -46,18 +46,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SfJQglNIENGxF6jWkIs6-52" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;fontSize=10;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="750" y="310" width="80" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="SfJQglNIENGxF6jWkIs6-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fontFamily=Comic Sans MS;" parent="1" source="SfJQglNIENGxF6jWkIs6-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="365" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="750" y="308" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SfJQglNIENGxF6jWkIs6-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontFamily=Comic Sans MS;" parent="1" source="SfJQglNIENGxF6jWkIs6-54" target="SfJQglNIENGxF6jWkIs6-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SfJQglNIENGxF6jWkIs6-54" value="Amazon S3" style="sketch=0;outlineConnect=0;strokeColor=#FFFFFF;fillColor=#333333;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;fontStyle=1;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="322.71" y="310" width="80" height="100" as="geometry" />
+          <mxGeometry x="322.71" y="313" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SfJQglNIENGxF6jWkIs6-55" value="Amazon ECR" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecr;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="550" y="160" width="80" height="100" as="geometry" />
@@ -97,6 +92,9 @@
         </mxCell>
         <mxCell id="lorqmB42QfkhoRC_Ovi1-1" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Fargate Config&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1 Tasks = 100 VU&lt;/div&gt;&lt;div style=&quot;&quot;&gt;10 Tasks = 1000 VU&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="322.71" y="610" width="136.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lorqmB42QfkhoRC_Ovi1-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;startSize=8;endSize=8;" edge="1" parent="1" source="SfJQglNIENGxF6jWkIs6-37" target="SfJQglNIENGxF6jWkIs6-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
