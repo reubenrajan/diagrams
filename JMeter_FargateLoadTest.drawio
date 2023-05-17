@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T12:56:43.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="W2UJVN5C0o--rGPQFcI8" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T01:39:20.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="QWJDs4ci2sJm1XvQ11Tg" version="21.3.2" type="github">
   <diagram name="Page-1" id="uRonXGFKkM05VsuhB5dR">
     <mxGraphModel dx="1194" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lorqmB42QfkhoRC_Ovi1-1" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Fargate Config&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1 Tasks = 100 VU&lt;/div&gt;&lt;div style=&quot;&quot;&gt;10 Tasks = 1000 VU&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;arcSize=23;" parent="1" vertex="1">
-          <mxGeometry x="322.71000000000004" y="520" width="140" height="60" as="geometry" />
+          <mxGeometry x="292.71000000000004" y="520" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lorqmB42QfkhoRC_Ovi1-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=10;fontColor=#ffffff;startSize=8;endSize=8;" parent="1" source="SfJQglNIENGxF6jWkIs6-37" target="SfJQglNIENGxF6jWkIs6-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
